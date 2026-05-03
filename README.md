@@ -5,6 +5,8 @@ This project presents a Mini Data Visualization Dashboard built using the Titani
 
 The goal is to communicate key insights through clear and meaningful visualizations.
 
+
+
 📌 Objectives
 
 
@@ -26,6 +28,8 @@ Dropped Cabin column due to excessive missing data
 
 Filled missing Embarked values
 
+
+
 🔧 Feature Engineering
 
 
@@ -33,7 +37,10 @@ Created Age Groups (Child, Teen, Adult, etc.)
 
 Calculated Family Size (SibSp + Parch)
 
+
+
 📊 Dashboard Visualizations
+
 
 
 Survival rate by Gender
@@ -46,7 +53,11 @@ Correlation Heatmap
 
 Survival by Family Size
 
+
+
 💡 Key Insights
+
+
 
 Females had significantly higher survival rates
 
@@ -58,7 +69,11 @@ Smaller families had better survival chances
 
 Passenger class strongly influenced survival
 
+
+
 🛠️ Tools Used
+
+
 
 Python
 
