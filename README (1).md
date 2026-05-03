@@ -66,6 +66,3 @@ This project demonstrates how visualization and storytelling can transform raw d
 
 ---
 
-## 👨‍💻 Author
-
-Jaya Jha
